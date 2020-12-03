@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="play_with_friend">Play With Friend</string>
+    <string name="play_with_computer2">Play With Computer</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="x_starts_first">X Starts First</string>
+    <string name="settings">Settings</string>
+    <string name="stats">Stats</string>
+</resources>
